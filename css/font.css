@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url('fonts/hinted-Raleway-Regular.eot');
+    src: url('fonts/hinted-Raleway-Regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/hinted-Raleway-Regular.woff2') format('woff2'),
+    url('fonts/hinted-Raleway-Regular.woff') format('woff'),
+    url('fonts/hinted-Raleway-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('fonts/hinted-Raleway-Medium.eot');
+    src: url('fonts/hinted-Raleway-Medium.eot?#iefix') format('embedded-opentype'),
+    url('fonts/hinted-Raleway-Medium.woff2') format('woff2'),
+    url('fonts/hinted-Raleway-Medium.woff') format('woff'),
+    url('fonts/hinted-Raleway-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('fonts/hinted-Raleway-Bold.eot');
+    src: url('fonts/hinted-Raleway-Bold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/hinted-Raleway-Bold.woff2') format('woff2'),
+    url('fonts/hinted-Raleway-Bold.woff') format('woff'),
+    url('fonts/hinted-Raleway-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
